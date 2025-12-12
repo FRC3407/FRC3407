@@ -2,26 +2,22 @@
 title: Events
 ---
 
-### Minnesota Robotics Invitational (MRI)
+### Kickoff weekend
 
-Oct. 4th, 2025 
+Kickoff weekend is when all the FRC teams in the world learn what the game is going to be for the year. Our teams spends two days reading the rules, coming up with a strategy, brainstorming functionality for our robot, and having a good time. It is highly reccomended that all team members come because what happens at kickoff impacts our enire season.
 
-Roseville Area High School
-
-1240 County Road B2 W, Roseville, MN 55113
+January 10 & 11 at Bethel University, 3900 Bethel Dr, St Paul
 
 
-### Minne Mini
+### Week Zero Compitition
 
-Prior Lake High School
+Week zero is our first compitition of the season. It is a great chance to test our robot in a real game envirement and see what other people are doing without the high stakes. This is an incredible opportunity to learn how to improve our robot for the regional and post season compititions.
 
-7575 150th Street West, Savage, MN 55378
+Febuary 26 at Irondale High School, 2425 Long Lake Rd, New Brighton
 
-Nov. 22nd, 2025
 
-Hosted by King TeC
+### 10,000 Lakes Regional Compitition
 
-### Kickoff
+This is the main compitition of our season. It lasts several days and spans over a couple days of school. 
 
-Jan. 3rd, 2025
-
+March 25-28 at 3M Arena at Mariucci, 1901 4th St SE, Minneapolis

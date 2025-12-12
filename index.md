@@ -23,3 +23,21 @@ M.R.I. Robot Preparation
 [Team GitHub](https://github.com/FRC3407)
 
 [Blue Alliance](https://www.thebluealliance.com/team/3407)
+
+
+
+
+
+
+
+
+
+
+
+<!-- To do:
+- Add team image to homepage
+- Finish adding descriptions to sponsors
+  - Ask Lisa
+  - Add them
+- Make it all look nice
+ -->
