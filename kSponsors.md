@@ -6,7 +6,7 @@ title: Sponsors
 
 Being a sponsor can mean donating money, tools, supplies, food, and many other things. Anything you can give is welcome! Thank you all for your support!
 
-## Consistent Sponsors
+## Consistent Sponsors:
 
 <img src="img/FirstRobotics.png" alt="FIRST Robotics" width=300>
 
@@ -66,7 +66,7 @@ Dassault 3D gives us access to prefessional CAD software.
 Anderson power point gives us electrical supplies
 
 
-## Placeholder Tier Name
+## Workspace sponsor:
 
 <img src="img/horse.jpg" alt="Mounds View High School" width=300>
 
@@ -79,7 +79,7 @@ Mounds View High School gives us a space to use for both meetings and storage.
 <!-- "67" - Rohan 2025-->
 
 
-# Thanks to all the other Sponsors who have helped us in the past
+### Thanks to all the other Sponsors who have helped us in the past.
 
 <img src="img/Solidworks.png" alt="Solidworks" width=150>
 <img src="img/tektronix.png" alt="Tektronix" width=150>

@@ -5,7 +5,7 @@ layout: page
 
 # FRC team 3407
 
-## Who We Are
+## Who We Are:
 
 We are the Robotics team of Mounds View High School; Team 3407: Wild Cards. Every year, we compete in the FIRST Robotics Competition (FRC). Our team has to design, prototype, build, test, and perfect a robot all in the time between kickoff and compitition.
 
@@ -13,11 +13,11 @@ We strive to teach our students skills that will not only help our team's perfor
 
 We recuit new members during Setember, then take the fall to train. After kickoff in January, we build our robot for the current year's game. Once it's time, we take our robot to competition to show off what we've been able to make.
 
-## Current Event:
+## Current task:
 
-M.R.I. Robot Preparation
+Training for the season.
 
-## Resources
+## Resources:
 
 [FIRST Website](https://www.firstinspires.org/robotics/frc/game-and-season)
 

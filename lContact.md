@@ -4,7 +4,9 @@ title: Contact Us
 
 Please contact us at mounsviewrobotics@gmail.com if you need any assistance.
 
-## We accept new members during september. Here is how to register for the team:
+We accept new members only during september. 
+
+## Here is how to register for the team:
 
 ### Step 1: Registration through FIRST
 
