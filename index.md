@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: page
 ---
 
 # FRC team 3407
