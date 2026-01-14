@@ -6,7 +6,7 @@ title: Sponsors
 
 Being a sponsor can mean donating money, tools, supplies, food, and many other things. Anything you can give is welcome! Thank you all for your support!
 
-
+ 
 ## Consistent Sponsors:
 
 <img src="img/FirstRobotics.png" alt="FIRST Robotics" width=300>
