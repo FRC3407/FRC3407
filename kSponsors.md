@@ -30,7 +30,7 @@ Being a sponsor can mean donating money, tools, supplies, food, and many other t
 
 <img src="img/cope_logo.png" alt="Cope Plastics, Inc." width=300>
 
-[Cope Plastics](https://www.copeplastics.com/) gies us polycarbonates, sometimes cut to size.
+[Cope Plastics](https://www.copeplastics.com/) gives us polycarbonates, sometimes cut to size.
 
 <img src="img/dassault3D.png" alt ="Dassault 3D">
 
