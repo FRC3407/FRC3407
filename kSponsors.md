@@ -84,9 +84,8 @@ S & T Family gave us a large grant.
 
 ## Sponsor Us!  
 
-<!-- "In terms of money... we have no money." -Gru, 2011 -->
 <!-- "I like sponsors. They make happy." -Lucas 2025 -->
-<!-- "67" - Rohan 2025-->
+
 
 
 ### Thanks to all the other Sponsors who have helped us in the past.
