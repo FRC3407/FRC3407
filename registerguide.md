@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Registration Guide
 permalink: /registerguide/
 hidden: true
