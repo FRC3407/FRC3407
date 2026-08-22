@@ -33,12 +33,10 @@ Offseason outreach and fundraising!
 
 
 <!-- gh pages :sob: -->
+<!-- mimimimi --!>
 
 
 <!-- To do:
-- Add team image to homepage
-- Finish adding descriptions to sponsors
-  - Ask Lisa
-  - Add them
-- Make it all look nice
+-Experiment with different Jeykll themes
+-Team pictures tab?
  -->
