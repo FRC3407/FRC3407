@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# FRC team 3407
+# FRC Team 3407
 
 ## Who We Are:
 
@@ -11,7 +11,7 @@ We are the robotics team of Mounds View High School; Team 3407: Wild Cards. Ever
 
 Our mission is to inspire students to pursue their STEM interests and provide valuable team experience that they can carry with them into their career and beyond. While we do strive to make the best robots we can, our main goal is to foster an inclusive community for young people to explore their interests and develop skills in technology and teamwork. 
 
-We recruit new members during September, then spend the fall on team and personal development. After kickoff in January, we build our robot for the current year's game. Once it's time, we take our robot to competition to show off what we've been able to make!
+We recruit new members during September. During the pre-season, we focus on team and personal development. After kickoff in January, we build our robot for the current year's game. Once it's time, we take our robot to competition to show off what we've been able to make!
 
 ## Current task:
 
