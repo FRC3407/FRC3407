@@ -26,7 +26,7 @@ Being a sponsor can mean donating money, tools, supplies, food, and many other t
 
 <img src="img/eswitch.png" alt="E Switch" width=300>
 
-[E switch](https://www.e-switch.com/) gave us a ton of switches.
+[E-Switch](https://www.e-switch.com/) gave us a ton of switches.
 
 <img src="img/cope_logo.png" alt="Cope Plastics, Inc." width=300>
 
@@ -38,7 +38,7 @@ Being a sponsor can mean donating money, tools, supplies, food, and many other t
 
 <img src="img/AndersonPower.png" alt="Anderson Power" width=150>
 
-[Anderson power point](https://www.andersonpower.com/us/en.html) gives us electrical supplies
+[Anderson Power](https://www.andersonpower.com/us/en.html) gives us electrical supplies.
 
 
 ## Monetary donations
@@ -53,11 +53,11 @@ Being a sponsor can mean donating money, tools, supplies, food, and many other t
 
 <img src = "img/sfm_logo.webp" alt = "SFM Mutual Insurance">
 
-[SFM Mutual Insurence](https://www.sfmic.com/?gad_source=1&gad_campaignid=933005655) donated money to our team.
+[SFM Mutual Insurance](https://www.sfmic.com/?gad_source=1&gad_campaignid=933005655) donated money to our team.
 
 <img src="img/GeneHaas.png" alt="Gene Haas Foundation" width=300>
 
-[Gene Haas](https://www.ghaasfoundation.org/) makes the games that we build robots for and has given us grants.
+[Gene Haas Foundation](https://www.ghaasfoundation.org/) makes the games that we build robots for and has given us grants.
 
 <img src="img/sandtfamily.png" alt="S & T Family" width=300>
 
@@ -65,7 +65,7 @@ S & T Family gave us a large grant.
 
 <img src="img/3m.png" alt="3M" width=150>
 
-[3m](https://www.3m.com/) has given us volunteer matching donations in the past.
+[3M](https://www.3m.com/) has given us volunteer matching donations in the past.
 
 <img src="img/medtronic.jpg" alt="Medtronic" width=150>
 
