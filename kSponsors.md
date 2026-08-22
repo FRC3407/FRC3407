@@ -34,7 +34,7 @@ Being a sponsor can mean donating money, tools, supplies, food, and many other t
 
 <img src="img/dassault3D.png" alt ="Dassault 3D">
 
-[Dassault 3D](https://discover.3ds.com/dassault-systemes-product-portfolio?utm_medium=cpc&utm_source=google&utm_campaign=202201_glo_sea_en_op51508_labl_brand-topV2_nam_all&utm_term=dassault-exact&utm_content=search&gad_source=1&gad_campaignid=22728425007&gbraid=0AAAAADqOeJRFU4m9tD-yE7k96y1KmFk-1&gclid=EAIaIQobChMIgenszPiJkgMVijXUAR0DoA67EAAYASAAEgIycfD_BwE) gives us access to prefessional CAD software.
+[Dassault 3D](https://discover.3ds.com/dassault-systemes-product-portfolio?utm_medium=cpc&utm_source=google&utm_campaign=202201_glo_sea_en_op51508_labl_brand-topV2_nam_all&utm_term=dassault-exact&utm_content=search&gad_source=1&gad_campaignid=22728425007&gbraid=0AAAAADqOeJRFU4m9tD-yE7k96y1KmFk-1&gclid=EAIaIQobChMIgenszPiJkgMVijXUAR0DoA67EAAYASAAEgIycfD_BwE) gives us access to professional CAD software.
 
 <img src="img/AndersonPower.png" alt="Anderson Power" width=150>
 
@@ -84,9 +84,7 @@ S & T Family gave us a large grant.
 
 ## Sponsor Us!  
 
-<!-- "In terms of money... we have no money." -Gru, 2011 -->
 <!-- "I like sponsors. They make happy." -Lucas 2025 -->
-<!-- "67" - Rohan 2025-->
 
 
 ### Thanks to all the other Sponsors who have helped us in the past.

@@ -2,9 +2,9 @@
 title: Contact Us
 ---
 
-Please contact us at mounsviewrobotics@gmail.com if you need any assistance.
+Please contact us at moundsviewrobotics@gmail.com for any questions or concerns.
 
-We accept new members only during september. 
+We accept new members only during September. 
 
 ## Here is how to register for the team:
 
