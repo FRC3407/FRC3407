@@ -1,10 +1,6 @@
 ---
-title: Contact Us
+title: Registration Guide
 ---
-
-Please contact us at moundsviewrobotics@gmail.com for any questions or concerns.
-
-We accept new members only during September. 
 
 ## Here is how to register for the team:
 
@@ -32,3 +28,6 @@ Parental Consent Form should be signed and returned to give students permission 
 A. The activity fee for Fall semester is $125.00, which includes personal safety glasses.  Checks may be made to MVHS Robotics (we cannot accept payment through PayPAMS) and may be placed in our mailbox in the Activities Office or brought to our next meeting.  Please contact lpvervena@gmail.com if you need to request a fee waiver or set up a payment plan.
   
 B. An activity fee of $75.00 will also be assessed for Fall team members who are eligible to continue into Spring semester.  This fee may be reduced incrementally as each student may earn credits in the Fall by productively engaging in assigned tasks,  Credits earned in the Fall may reduce the fee to $0.00, so please do not pay in advance.  Credits may also be lost.
+
+
+*Please note we only accept new members during September

@@ -7,7 +7,7 @@ layout: page
 
 ## Who We Are:
 
-We are the robotics team of Mounds View High School; Team 3407: Wild Cards. Every year, we compete in the FIRST Robotics Competition (FRC). Our team builds a new robot each year and maintains a selection of older robots. Interested students are encouraged to join regardless of experience in robotics!
+We are the robotics team of Mounds View High School; Team 3407: Wild Cards. Every year, we compete in the FIRST Robotics Competition (FRC). Our team builds a new robot each year and maintains a selection of older robots. Interested students are encouraged to join regardless of experience in robotics! 
 
 Our mission is to inspire students to pursue their STEM interests and provide valuable team experience that they can carry with them into their career and beyond. While we do strive to make the best robots we can, our main goal is to foster an inclusive community for young people to explore their interests and develop skills in technology and teamwork. 
 
