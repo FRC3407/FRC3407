@@ -1,5 +1,5 @@
 ---
-title: ProspectiveMembers
+title: Prospective Members
 ---
 
 ## How do I join?
