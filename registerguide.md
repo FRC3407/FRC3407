@@ -1,6 +1,5 @@
 ---
 title: Registration Guide
-permalink: /registerguide/
 hidden: true
 ---
 ### Step 1: Registration through FIRST
