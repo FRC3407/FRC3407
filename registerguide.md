@@ -1,5 +1,4 @@
 ---
-title: Registration Guide
 hidden: true
 published: false
 ---
