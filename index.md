@@ -39,8 +39,7 @@ If you're interested in becoming a mentor or sponsor for our team, or just have 
 <!-- mimimimi -->
 
 
-<!-- To do, in priority order:
+<!-- To do:
 -Batteries Plus sponsor (sreekar doing that)
--Experiment with different Jeykll themes
--Team pictures tab?
+-update registration guide
  -->
