@@ -8,7 +8,6 @@ exclude:
   - README.md
   - LICENSE
 header_pages:
-  - /index.md
-  - /jEvents.md
-  - /kSponsors.md
-  - /lProspective-Members.md
+  - jEvents.md
+  - kSponsors.md
+  - lProspective-Members.md
