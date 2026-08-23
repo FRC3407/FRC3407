@@ -1,6 +1,6 @@
 title: 3407 Wild Cards
 description: FRC Team 3407's website for information and events.
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: "jekyll/minima@v3.0.1"
 
 github:
   is_project_page: false
