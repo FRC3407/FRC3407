@@ -1,5 +1,6 @@
 ---
 title: Events
+layout: page
 ---
 
 ### Kickoff weekend
