@@ -1,6 +1,5 @@
 ---
-hidden: true
-published: false
+title: Registration Guide
 ---
 ### Step 1: Registration through FIRST
 
