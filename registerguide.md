@@ -1,5 +1,7 @@
 ---
 title: Registration Guide
+layout: page
+hidden: true
 ---
 ### Step 1: Registration through FIRST
 
