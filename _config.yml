@@ -7,7 +7,4 @@ github:
 exclude:
   - README.md
   - LICENSE
-header_pages:
-  - /jEvents.md
-  - /kSponsors.md
-  - /lProspective-Members.md
+
