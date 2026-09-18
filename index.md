@@ -3,19 +3,22 @@ title: Home
 layout: page
 ---
 
-# FRC team 3407
+# FRC Team 3407
 
 ## Who We Are:
 
-We are the Robotics team of Mounds View High School; Team 3407: Wild Cards. Every year, we compete in the FIRST Robotics Competition (FRC). Our team has to design, prototype, build, test, and perfect a robot all in the time between kickoff and compitition.
+We are the robotics team of Mounds View High School; Team 3407: Wild Cards. Every year, we compete in the FIRST Robotics Competition (FRC). Our team builds a new robot each year and maintains a selection of older robots. Interested students are encouraged to join regardless of experience in robotics! 
 
-We strive to teach our students skills that will not only help our team's performance, but also to help them develop skills. Students in Robotics will learn skills in leadership, teamwork, problem-solving, and many other skills that may help them succeed in their future STEM or non-STEM endeavors. We encourage knowledge, strength, and interest in STEM.
+Our mission is to inspire students to pursue their STEM interests and provide valuable team experience that improves their futures and their communities. To that end, the goal for the team is to become a playoffs contender for the upcoming season.
 
-We recuit new members during Setember, then take the fall to train. After kickoff in January, we build our robot for the current year's game. Once it's time, we take our robot to competition to show off what we've been able to make.
+## Seasonal Schedule:
 
-## Current task:
+We recruit new members during September. During the pre-season, we focus on training and team development. After kickoff in January, we build our robot for the current year's game. Once it's time, we take our robot to competition to show off what we've been able to make!
 
-Training for the season.
+## Prospective Mentors and Sponsors
+
+Becoming a sponsor or mentor is a great way to support the team!
+If you're interested in becoming a mentor or sponsor for our team, or just have a question for us, please contact us at moundsviewrobotics@gmail.com
 
 ## Resources:
 
@@ -23,7 +26,7 @@ Training for the season.
 
 [Team GitHub](https://github.com/FRC3407)
 
-[Blue Alliance](https://www.thebluealliance.com/team/3407)
+[The Blue Alliance](https://www.thebluealliance.com/team/3407)
 
 
 
@@ -33,12 +36,10 @@ Training for the season.
 
 
 <!-- gh pages :sob: -->
+<!-- mimimimi -->
 
 
 <!-- To do:
-- Add team image to homepage
-- Finish adding descriptions to sponsors
-  - Ask Lisa
-  - Add them
-- Make it all look nice
+-Batteries Plus sponsor (sreekar doing that)
+-update registration guide
  -->

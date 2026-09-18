@@ -1,0 +1,12 @@
+---
+title: Prospective Members
+---
+
+## How do I Join FRC Team 3407?
+
+Students enrolled at Mounds View High School, and home-schooled high school students in the catchment area are eligible to join FRC Team 3407. Prospective members can find us at the activity fair on the first day of school at Mounds View, and if interested in joining the team, should attend our open houses which run through mid-to-late September. We STRONGLY recommend attending at least one of these open houses to see if our team is a good fit before registering officially. Prospective members also have the opportunity to attend some of our preliminary meetings before the registration window ends, which is also strongly recommended, as much of the training and onboarding process happens in those meetings. 
+
+The registration process should be started in late September, and completed before the end of October. See the [registration guide](registerguide.md) for information about the registration process.
+
+#### Note: FRC is different from FTC
+> Wild Cards is an FRC team with more than 20 members and a team of mentors, and much of our work is segmented into specialties and roles. FTC is different and involves smaller community teams with less specialization. Interested parties should see the [FIRST FTC Page](https://www.firstinspires.org/programs/ftc/) and [High Tech Kids](https://hightechkids.org/).
