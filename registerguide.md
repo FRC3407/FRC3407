@@ -1,13 +1,8 @@
 ---
-title: Contact Us
+title: Registration Guide
+layout: page
+hidden: true
 ---
-
-Please contact us at moundsviewrobotics@gmail.com for any questions or concerns.
-
-We accept new members only during September. 
-
-## Here is how to register for the team:
-
 ### Step 1: Registration through FIRST
 
 Go to [firstinspires.org](firstinspired.org).
