@@ -21,3 +21,5 @@ February 26 at Irondale High School, 2425 Long Lake Rd, New Brighton
 This is the main competition of our season. It lasts several days and spans over a couple days of school. 
 
 March 25-28 at 3M Arena at Mariucci, 1901 4th St SE, Minneapolis
+
+[Team Calendar](https://calendar.google.com/calendar/embed?src=moundsviewrobotics%40gmail.com&ctz=America%2FChicago)
